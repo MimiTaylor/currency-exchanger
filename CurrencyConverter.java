@@ -1,3 +1,4 @@
+
 public class CurrencyConverter {
     public static void main(String[] args) {
         java.util.Scanner scan = new java.util.Scanner(System.in);
@@ -37,5 +38,7 @@ public class CurrencyConverter {
             }
         }
         System.out.println("Exiting the program");
+        System.out.println("\n**************************************************\nAdding some text here for day 2 tutorial!\n**************************************************");
     }
+
 }
