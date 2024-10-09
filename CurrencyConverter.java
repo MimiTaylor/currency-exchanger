@@ -39,7 +39,7 @@ public class CurrencyConverter {
         }
         System.out.println("Exiting the program");
         System.out.println("**************************************************");
-        System.out.println("1st commit");
+        System.out.println("MASTER BRANCH. Another commit to show that i am switching between branches");
         System.out.println("**************************************************");
 
     }
